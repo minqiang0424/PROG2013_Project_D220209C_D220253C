@@ -1,0 +1,15 @@
+Customer Information:
+Name: ma
+Email: 123@gmail.com
+Phone Number: 023456789
+
+Booking Details:
+Room Type: Deluxe Room
+Number of Nights: 2
+Check-in Date: 2024-09-04
+Check-in Time: 09:00 AM
+Number of Rooms: 2
+
+Payment Details:
+Price per Night: RM150.00
+Total Fee: RM600.00

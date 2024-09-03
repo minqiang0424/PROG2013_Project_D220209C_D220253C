@@ -1,0 +1,60 @@
+Guest: mq
+Guest: ma
+Customer Name: 1
+Email: 1
+Phone: 1
+Customer Information:
+Name: 1
+Email: 1
+Phone Number: 1
+
+Booking Details:
+Room Type: Standard
+Number of Nights: 1
+Check-in Date: 2024-08-15
+Check-in Time: 01:00
+Number of Rooms: 1
+
+Payment Details:
+Price per Night: RM100.00
+Total Room Fee: RM100.00
+
+Customer Name: q
+Email: q
+Phone: 1
+Customer Information:
+Name: q
+Email: q
+Phone Number: 1
+
+Booking Details:
+Room Type: Deluxe
+Number of Nights: 1
+Check-in Date: 2024-08-17
+Check-in Time: 01:00
+Number of Rooms: 1
+
+Payment Details:
+Price per Night: RM150.00
+Total Room Fee: RM150.00
+
+Customer Name: 1
+Email: 1
+Phone: 1
+Receipt:
+Customer Information:
+Name: 1
+Email: 1
+Phone Number: 1
+
+Booking Details:
+Room Type: Deluxe Room
+Number of Nights: 1
+Check-in Date: 2024-08-17
+Check-in Time: 01:00 AM
+Number of Rooms: 1
+
+Payment Details:
+Price per Night: RM150.00
+Total Fee: RM150.00
+---------------------------------------------------

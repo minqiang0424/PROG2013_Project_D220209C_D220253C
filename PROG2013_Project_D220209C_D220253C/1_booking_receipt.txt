@@ -1,0 +1,15 @@
+Customer Information:
+Name: 1
+Email: 11
+Phone Number: 1
+
+Booking Details:
+Room Type: Standard Room
+Number of Nights: 1
+Check-in Date: 2024-08-17
+Check-in Time: 01:00 AM
+Number of Rooms: 1
+
+Payment Details:
+Price per Night: RM100.00
+Total Fee: RM100.00
